@@ -22,4 +22,11 @@ If you want file not displayed in git, you should create a new file named '.giti
 files what you want. After that added .gitignore in 'stage' (command add)
 For ignore package you need to write in .gitignore '/package_name'
 
+*Commit uploaded files from GitHub and create branches* 
+For upload file from GitHub:
+1)copy url of repository
+2)in cmd write: git clone 'url_of_project' and added it in your project
+3)procced in other branch ! All new commits must be in new branch: git checkout 'new_branch'
+4)make changes
+
 
