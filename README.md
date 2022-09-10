@@ -28,5 +28,5 @@ For upload file from GitHub:
 2)in cmd write: git clone 'url_of_project' and added it in your project
 3)procced in other branch ! All new commits must be in new branch: git checkout 'new_branch'
 4)make changes
-
+5)add and commit 
 
